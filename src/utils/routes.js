@@ -1,0 +1,5 @@
+export const HOME="Home"
+export const FAVORITE="Favorite"
+export const TAB="Tab"
+export const MOVIELIST="Movielist"
+export const MOVIEDETAIL="MovieDetail"
