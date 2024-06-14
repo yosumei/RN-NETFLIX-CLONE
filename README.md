@@ -1,5 +1,7 @@
 The Project isn't finished yet...
 
+![ScreenRecording2024-06-14at12 57 10-ezgif com-video-to-gif-converter](https://github.com/yosumei/RN-NETFLIX-CLONE/assets/147663700/bf7d406c-9465-4e42-b100-5462a9695a9d)
+
 # Getting Started
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
